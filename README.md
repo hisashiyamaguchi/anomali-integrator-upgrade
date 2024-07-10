@@ -23,9 +23,6 @@ $ sudo ./integrator_xxxx_linux64.2.bin
 
 Specify the current install directry. **Do NOT specify the different directory of the current install directory. The path should be exactly the same as the current install directory.**
 ```console
-Verifying archive integrity... All good.
-Uncompressing Anomali Integrator.................................................................................................
-Enter Anomali Integrator installation directory: ^CSignal caught, cleaning up
 sudo ./integrator_8.4.1_linux64.2.bin
 [sudo] password for aintegrator:
 Verifying archive integrity... All good.
